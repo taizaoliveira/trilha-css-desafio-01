@@ -2,6 +2,7 @@
 
 ##Primeiro desafio da Trilha de CSS da DIO!
 ##Projeto Trilha de CSS - DIO
+
 ##Descrição
 Este é um projeto de exemplo para a criação de uma página web promovendo a "Trilha de CSS da DIO". A página inclui informações sobre o curso, os módulos, os desafios profissionais e a inscrição, bem como um banner atraente e um rodapé informativo.
 
