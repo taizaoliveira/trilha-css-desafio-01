@@ -7,11 +7,17 @@
 Este é um projeto de exemplo para a criação de uma página web promovendo a "Trilha de CSS da DIO". A página inclui informações sobre o curso, os módulos, os desafios profissionais e a inscrição, bem como um banner atraente e um rodapé informativo.
 
 ##Conteúdo
+
 Página Inicial
+
 **Banner:** Um banner atraente com um logotipo, título, descrição e botão de inscrição.
+
 **Módulos do Curso:** Uma seção que descreve os módulos do curso.
+
 **Transforme o Mundo:** Uma seção que incentiva a transformação com uma imagem inspiradora.
+
 **Desafios Profissionais:** Uma seção que destaca os desafios profissionais e as oportunidades.
+
 **Rodapé:** O rodapé inclui o logotipo da DIO e um link de inscrição.
 
 ##Estilo
